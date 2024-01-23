@@ -6,11 +6,11 @@ Run this followed commands:
 
 ``` bash
 # Install dependencies (only the first time)
-npm install
+yarn install or npm install
 
 # Run the local server at localhost:8080
-npm run dev
+yarn dev or npm run dev
 
 # Build for production in the dist/ directory
-npm run build
+yarn build or npm run build
 ```
