@@ -1,6 +1,4 @@
-# Three.js Basic Scene Template
-
-![preview image](static/images/preview.png)
+# Shaders boilerplate
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
